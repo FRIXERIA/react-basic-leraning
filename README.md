@@ -1,1 +1,1 @@
-# react-basic-leraning
+# react-basic-learning
